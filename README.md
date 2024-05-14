@@ -1,1 +1,1 @@
-# WeatgerBot
+# WeatherBot
